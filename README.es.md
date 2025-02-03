@@ -20,4 +20,4 @@ Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar 
 
 ## 📝 Instrucciones
 
-Una vez que comiences a trabajar en el proyecto, verás un fichero `./project.es.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno.
+Una vez que comiences a trabajar en el proyecto, verás un fichero `./project.es.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno. ## Eliminar la parter "uno por uno" ya que al decir anteriormente cada uno de ellos, es una informacion redundante. 
